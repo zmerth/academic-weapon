@@ -106,3 +106,15 @@ body {
 .alt-btn:hover {
     box-shadow: 0 6px 18px rgba(78, 115, 223, 0.4);
 }
+
+.highlight-somu {
+    border: 3px solid #4e73df;
+    background: linear-gradient(135deg, #e8f0ff, #f4f7ff);
+}
+
+.progress-bar {
+    font-family: monospace;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
